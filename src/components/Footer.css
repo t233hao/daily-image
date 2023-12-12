@@ -1,0 +1,18 @@
+.footer {
+    margin-top: 100px;
+    border-top: 1px solid #353333;
+    height: auto;
+    text-align: center;
+}
+
+p{
+    color: whitesmoke;
+}
+
+.color {
+    color:red;
+}
+
+.line:hover{
+    color: aqua;
+}
