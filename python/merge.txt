@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-1
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-12-24/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-12-23/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-12-22/file_1.jpg
+https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-12-21/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-12-20/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-12-19/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2023-12-18/file_1.jpg
