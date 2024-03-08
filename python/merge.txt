@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2024-03-08/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2024-03-07/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2024-03-06/file_1.jpg
 https://raw.githubusercontent.com/t233hao/daily-image/main/python/imgData/2024-03-05/file_1.jpg
